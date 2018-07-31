@@ -38,7 +38,7 @@ Wine/Cabernet Sauvignon
 如果你提供一个新版本的文件已经存在于wiki,选择复选框“覆盖现有的文件”。 
 链接到一个上传文件,就是用它的名字在一个常规wiki链接。例如,如果你上传一张fido.jpg,可以插入图片(markdown-formatted)页面如下: ![fido](fido.jpg)。如果你上传一个PDFprojection.pdf,你可以插入的链接使用:[projection](projection.pdf)。
 ```
-全文见
+
 [全文检索-EsProxy详细设计V1.1](2d541379-f9dd-4b57-b859-1c88017f0529__全文检索-EsProxy详细设计V1.1.doc)
 
 # Markdown语法
