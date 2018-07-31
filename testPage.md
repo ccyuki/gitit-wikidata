@@ -1,5 +1,5 @@
 ---
-title: 这是一个页面的标题
+title: testPage 这是一个页面的标题
 toc: yes
 categories: test, new page,语法 markdown
 format: markdown
